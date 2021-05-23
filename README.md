@@ -1,11 +1,16 @@
 # Curso de Boostrap
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/silasmakou/aula_bootstrap">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/silasmakou/aula_bootstrap?logo=html">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/silasmakou/aula_bootstrap?color=green">
+  <br>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/silasmakou/aula_bootstrap">
+  <a href="https://www.linkedin.com/in/silas-coutinho/">
+    <img alt="Made by Silas" src="https://img.shields.io/badge/made%20by-Silas-%2304D361">
+  </a>
+</p>
 
-
-
-
-
-
-
+![index bootstrap](https://user-images.githubusercontent.com/79108882/119273640-328c7180-bbe2-11eb-8415-2893218f1728.jpg)
 
 ## :books: Sobre
 
@@ -22,6 +27,7 @@ As tecnologias utilizadas no projeto foram:
 - HTML5
 - CSS3
 - Bootstrap
+- JavaScript
 
 ## :books: About
 
@@ -38,6 +44,7 @@ The technologies used in the project were:
 - HTML5
 - CSS3
 - Bootstrap
+- JavaScript
 
 ------
 
